@@ -1,0 +1,21 @@
+.body-bg{
+    background: var(--deeplightpink);
+}
+body{
+    font-family: 'Architects Daughter', cursive;
+}
+
+.highlight {
+    background-color:#17b978;
+}
+/*!*Categories slider buttons next and prev*!*/
+.tns-nav, .tns-controls, .tns-liveregion, [data-action="start"],[data-action="stop"]{
+    display: none;
+}
+.tns-slider {
+    display: flex;
+}
+.tns-ovh{
+    overflow: hidden;
+}
+
